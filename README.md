@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/harshguptakiet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=CuraGenie&theme=radical&bg_color=1d2a3a&hide_border=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF" alt="Cura Genie Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=Cura-Genie&theme=radical&bg_color=1d2a3a&hide_border=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF" alt="Cura Genie Project">
   </a>
 </p>
 
