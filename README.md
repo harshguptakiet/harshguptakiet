@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-image.png" alt="Profile Picture" width="180" style="border-radius: 50%;" />
+  <img src="profile_image.png" alt="Profile Picture" width="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Harsh Gupta 👋</h1>
