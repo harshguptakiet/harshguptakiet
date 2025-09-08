@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/harshguptakiet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=Cura-Genie&theme=radical&bg_color=1d2a3a&hide_border=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF" alt="Cura Genie Project">
-  </a>
-</p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/main/profile_image.png" alt="Profile Picture" width="180" style="border-radius: 70%; border: 2px solid #30A3DC;" />
