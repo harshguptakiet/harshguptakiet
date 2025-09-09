@@ -111,19 +111,49 @@ Here are some of the projects I'm proud of, with live stats.
 </table>
 
 ---
-### ⏰ My Coding Activity (from WakaTime)
----
-
 ### 🌱 Let's Connect & Collaborate
 
 I believe the best innovations come from collaboration. I’m always open to working on interesting projects, brainstorming ideas, or just chatting about tech. Feel free to reach out!
 
-<p align="center">
-  <em>Let’s build something amazing together! 🚀</em>
-</p>
+---
+
+### ✨ Just for Fun | Extra Visuals
+
+A collection of dynamic and fun visuals from my GitHub journey.
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h4>My GitHub Skyline (2025)</h4>
+      <img src="https://skyline.github.com/harshguptakiet/2025.svg" alt="GitHub Skyline" />
+    </td>
+    <td width="50%" align="center">
+      <h4>My Contribution Globe</h4>
+      <img src="https://srm-contributions-img.vercel.app/api?user=harshguptakiet" alt="Contribution Globe" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" align="center">
+      <h4>My Awesome Followers</h4>
+      <a href="https://github.com/harshguptakiet?tab=followers">
+        <img src="https://gh-followers-board.vercel.app/followers?user=harshguptakiet&count=12&cols=6" alt="Followers Board" />
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" align="center">
+      <h4>Year Progress</h4>
+      <img src="https://go-year-progress-bar.herokuapp.com/progress?border=false&color=30A3DC&bg=1F222E" alt="Year Progress Bar" />
+    </td>
+    <td width="50%" align="center">
+      <h4>Random Dev Meme</h4>
+      <img src="https://dev-memes.herokuapp.com/random" alt="Random Dev Meme" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://snek.sajadm.com/github-contribution-grid-snake.svg?user=harshguptakiet&theme=dark" alt="github contribution grid snake animation" />
 </div>
