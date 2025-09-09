@@ -25,10 +25,11 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshguptakiet&label=PROFILE+VIEWS&color=30A3DC&style=for-the-badge" alt="Profile views" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/harshguptakiet">
+    <img src="https://metrics.lecoq.io/harshguptakiet?template=classic&config_animations=true&plugins=isocalendar%2C+habits" alt="GitHub Metrics" />
+  </a>
+</p>
 ---
 
 ### 👨‍💻 About Me
@@ -50,61 +51,27 @@ Hey there! 👋 I'm a developer with a curious mind and a passion for creating t
 
 ### 🛠️ My Tech Toolbox
 
-Here are some of the technologies I love to work with.
+Here are some of the technologies I love to work with, showcased with some cool animated icons!
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <strong>🚀 Frontend</strong><br><br>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
-      <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
-      <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-      <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"></a>
-      <a href="https://threejs.org/" target="_blank"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"></a>
-    </td>
-    <td align="center">
-      <strong>⚙️ Backend</strong><br><br>
-      <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
-      <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
-      <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>🧠 AI & Machine Learning</strong><br><br>
-      <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-      <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
-      <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"></a>
-      <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-      <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
-    </td>
-    <td align="center">
-      <strong>🔗 Web3 & DevOps</strong><br><br>
-      <a href="https://soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-      <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,threejs,nodejs,express,php,python,tensorflow,sklearn,opencv,pandas,numpy,solidity,mysql,git,docker,linux,vscode&perline=10" />
+  </a>
+</p>
 
 ---
 
 ### 📊 My GitHub Stats & Activity
 
-<details>
-  <summary><b>Click to see my GitHub Stats</b></summary>
+These stats are dynamically generated and always up-to-date!
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&theme=catppuccin_latte&count_private=true&hide_border=true&rank_icon=github" alt="Harsh's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguptakiet&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=10" alt="Harsh's Top Languages" />
   <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&theme=catppuccin_latte&count_private=true&hide_border=true&rank_icon=github" alt="Harsh's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguptakiet&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=10" alt="Harsh's Top Languages" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshguptakiet&theme=catppuccin_latte&hide_border=true" alt="Harsh's GitHub Streak" />
-    <img src="https://github-profile-trophy.vercel.app/?username=harshguptakiet&theme=flat&column=4&margin-w=15&margin-h=15" alt="Harsh's GitHub Trophies" />
-  </p>
-</details>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshguptakiet&theme=catppuccin_latte&hide_border=true" alt="Harsh's GitHub Streak" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=harshguptakiet&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Harsh's GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshguptakiet&theme=react-dark&hide_border=true&area=true&bg_color=1F222E&point=30A3DC" alt="Harsh's Contribution Graph" />
@@ -114,7 +81,7 @@ Here are some of the technologies I love to work with.
 
 ### 🚀 Featured Projects
 
-Here are some of the projects I'm proud of.
+Here are some of the projects I'm proud of, with live stats.
 
 <table width="100%">
   <tr>
@@ -144,6 +111,8 @@ Here are some of the projects I'm proud of.
 </table>
 
 ---
+### ⏰ My Coding Activity (from WakaTime)
+---
 
 ### 🌱 Let's Connect & Collaborate
 
@@ -156,5 +125,5 @@ I believe the best innovations come from collaboration. I’m always open to wor
 ---
 
 <div align="center">
-  <img src="https://github.com/harshguptakiet/harshguptakiet/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
