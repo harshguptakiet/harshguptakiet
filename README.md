@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/harshguptakiet">
-    <img src="https://metrics.lecoq.io/harshguptakiet?template=classic&config_animations=true&plugins=isocalendar%2C+habits" alt="GitHub Metrics" />
+    <img src="https://metrics.lecoq.io/harshguptakiet?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&config_animations=true" alt="GitHub Metrics" />
   </a>
 </p>
 ---
@@ -128,26 +128,20 @@ A collection of dynamic and fun visuals from my GitHub journey.
       <img src="https://skyline.github.com/harshguptakiet/2025.svg" alt="GitHub Skyline" />
     </td>
     <td width="50%" align="center">
-      <h4>My Contribution Globe</h4>
-      <img src="https://srm-contributions-img.vercel.app/api?user=harshguptakiet" alt="Contribution Globe" />
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" align="center">
-      <h4>My Awesome Followers</h4>
-      <a href="https://github.com/harshguptakiet?tab=followers">
-        <img src="https://gh-followers-board.vercel.app/followers?user=harshguptakiet&count=12&cols=6" alt="Followers Board" />
+      <h4>Community Contributors</h4>
+      <a href="https://github.com/harshguptakiet/harshguptakiet/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=harshguptakiet/harshguptakiet" alt="Community Contributors" />
       </a>
     </td>
   </tr>
-   <tr>
+  <tr>
     <td width="50%" align="center">
-      <h4>Year Progress</h4>
-      <img src="https://go-year-progress-bar.herokuapp.com/progress?border=false&color=30A3DC&bg=1F222E" alt="Year Progress Bar" />
+        <h4>Year Progress</h4>
+        <img src="https://year-progress-bar.vercel.app/year-progress?theme=dark" alt="Year Progress Bar" />
     </td>
     <td width="50%" align="center">
-      <h4>Random Dev Meme</h4>
-      <img src="https://dev-memes.herokuapp.com/random" alt="Random Dev Meme" />
+        <h4>Random Programming Joke</h4>
+        <img src="https://readme-jokes.vercel.app/api?theme=catppuccin_latte&hide_border=true" alt="Random Programming Joke" />
     </td>
   </tr>
 </table>
