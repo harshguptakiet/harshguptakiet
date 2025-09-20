@@ -1,225 +1,446 @@
-<div align="center"><div align="center">
+<div align="center"><div align="center"><div align="center">
 
 
+
+<!-- Animated Header -->
+
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Harsh%20Gupta&fontSize=90&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Innovation%20Driver&descAlignY=51&descAlign=62"/>
 
 <!-- Animated Header --><!-- Animated Header -->
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Harsh%20Gupta&fontSize=90&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Innovation%20Driver&descAlignY=51&descAlign=62"/><img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Harsh%20Gupta&fontSize=90&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Innovation%20Driver&descAlignY=51&descAlign=62"/>
+<!-- Typing Animation -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+Digital+Space!;Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Innovation+Driver;Always+Learning+%26+Growing" alt="Typing SVG" /></a><img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Harsh%20Gupta&fontSize=90&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Innovation%20Driver&descAlignY=51&descAlign=62"/><img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Harsh%20Gupta&fontSize=90&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Innovation%20Driver&descAlignY=51&descAlign=62"/>
 
 
+
+<!-- Profile Views Counter with Animation -->
+
+<img src="https://komarev.com/ghpvc/?username=harshguptakiet&label=Profile%20Views&color=blueviolet&style=for-the-badge&animation=pulse" alt="Profile Views" />
 
 <!-- Typing Animation --><!-- Typing Animation -->
 
+</div>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+Digital+Space!;Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Innovation+Driver;Always+Learning+%26+Growing" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+Digital+Space!;Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Innovation+Driver;Always+Learning+%26+Growing" alt="Typing SVG" /></a>
 
+<!-- Animated Divider -->
 
-
-<!-- Profile Views Counter with Animation --><!-- Profile Views Counter with Animation -->
-
-<img src="https://komarev.com/ghpvc/?username=harshguptakiet&label=Profile%20Views&color=blueviolet&style=for-the-badge&animation=pulse" alt="Profile Views" /><img src="https://komarev.com/ghpvc/?username=harshguptakiet&label=Profile%20Views&color=blueviolet&style=for-the-badge&animation=pulse" alt="Profile Views" />
-
-
-
-</div></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-<!-- Animated Divider --><!-- Animated Divider -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🚀 About Me<!-- Profile Views Counter with Animation --><!-- Profile Views Counter with Animation -->
 
 
 
-## 🚀 About Me## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><img src="https://komarev.com/ghpvc/?username=harshguptakiet&label=Profile%20Views&color=blueviolet&style=for-the-badge&animation=pulse" alt="Profile Views" /><img src="https://komarev.com/ghpvc/?username=harshguptakiet&label=Profile%20Views&color=blueviolet&style=for-the-badge&animation=pulse" alt="Profile Views" />
 
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+```typescript
+
+class HarshGupta {
+
+    constructor() {</div></div>
+
+        this.name = "Harsh Gupta";
+
+        this.role = "Full Stack Developer";
+
+        this.location = "India";
+
+        this.education = "KIET Group of Institutions";<!-- Animated Divider --><!-- Animated Divider -->
+
+        this.passion = ["Innovation", "Problem Solving", "Clean Code"];
+
+    }<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-```typescript```typescript
+    getCurrentFocus() {
 
-class HarshGupta {class HarshGupta {
+        return [
 
-    constructor() {    constructor() {
+            "Building scalable web applications",## 🚀 About Me## 🚀 About Me
 
-        this.name = "Harsh Gupta";        this.name = "Harsh Gupta";
+            "Exploring cloud technologies", 
+
+            "Contributing to open source",
+
+            "Learning emerging tech trends"
+
+        ];<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+    }
+
+
+
+    getSkills() {
+
+        return {```typescript```typescript
+
+            frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+
+            backend: ["Node.js", "Express", "Python", "Java"],class HarshGupta {class HarshGupta {
+
+            database: ["MongoDB", "PostgreSQL", "Redis"],
+
+            tools: ["Git", "Docker", "AWS", "Vercel"]    constructor() {    constructor() {
+
+        };
+
+    }        this.name = "Harsh Gupta";        this.name = "Harsh Gupta";
+
+}
 
         this.role = "Full Stack Developer";        this.role = "Full Stack Developer";
 
-        this.location = "India";        this.location = "India";
+const harsh = new HarshGupta();
+
+console.log(harsh.getCurrentFocus());        this.location = "India";        this.location = "India";
+
+```
 
         this.education = "KIET Group of Institutions";        this.education = "KIET Group of Institutions";
 
-        this.passion = ["Innovation", "Problem Solving", "Clean Code"];        this.passion = ["Innovation", "Problem Solving", "Clean Code"];
+<!-- Animated Divider -->
 
-    }    }
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        this.passion = ["Innovation", "Problem Solving", "Clean Code"];        this.passion = ["Innovation", "Problem Solving", "Clean Code"];
 
 
 
-    getCurrentFocus() {    getCurrentFocus() {
+## 🛠️ Tech Stack & Skills    }    }
 
-        return [        return [
+
+
+<div align="center">
+
+
+
+### 💻 Programming Languages    getCurrentFocus() {    getCurrentFocus() {
+
+<p>
+
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" />        return [        return [
+
+</p>
 
             "Building scalable web applications",            "Building scalable web applications",
 
-            "Exploring cloud technologies",             "Exploring cloud technologies", 
+### 🎨 Frontend Development
 
-            "Contributing to open source",            "Contributing to open source",
+<p>            "Exploring cloud technologies",             "Exploring cloud technologies", 
 
-            "Learning emerging tech trends"            "Learning emerging tech trends"
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass&theme=dark" />
 
-        ];        ];
+</p>            "Contributing to open source",            "Contributing to open source",
+
+
+
+### 🔧 Backend Development            "Learning emerging tech trends"            "Learning emerging tech trends"
+
+<p>
+
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&theme=dark" />        ];        ];
+
+</p>
 
     }    }
 
+### 🗄️ Databases & Cloud
+
+<p>
+
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gcp,docker,kubernetes&theme=dark" />
+
+</p>    getSkills() {    getSkills() {
 
 
-    getSkills() {    getSkills() {
 
-        return {        return {
+### 🛠️ Tools & Technologies        return {        return {
 
-            frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],            frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+<p>
+
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx&theme=dark" />            frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],            frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+
+</p>
 
             backend: ["Node.js", "Express", "Python", "Java"],            backend: ["Node.js", "Express", "Python", "Java"],
 
+</div>
+
             database: ["MongoDB", "PostgreSQL", "Redis"],            database: ["MongoDB", "PostgreSQL", "Redis"],
 
-            tools: ["Git", "Docker", "AWS", "Vercel"]            tools: ["Git", "Docker", "AWS", "Vercel"]
+<!-- Animated Divider -->
 
-        };        };
-
-    }    }
-
-}}
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">            tools: ["Git", "Docker", "AWS", "Vercel"]            tools: ["Git", "Docker", "AWS", "Vercel"]
 
 
 
-const harsh = new HarshGupta();const harsh = new HarshGupta();
+## 📊 GitHub Analytics        };        };
 
-console.log(harsh.getCurrentFocus());console.log(harsh.getCurrentFocus());
+
+
+<div align="center">    }    }
+
+  
+
+### 🔥 GitHub Streak Stats}}
+
+<img src="https://github-readme-streak-stats.vercel.app/?user=harshguptakiet&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats" />
+
+
+
+### 📈 GitHub Stats
+
+<div>const harsh = new HarshGupta();const harsh = new HarshGupta();
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguptakiet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8"/>console.log(harsh.getCurrentFocus());console.log(harsh.getCurrentFocus());
+
+</div>
 
 ``````
 
+### 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshguptakiet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" alt="GitHub Activity Graph" />
 
 
-<!-- Animated Divider --><!-- Animated Divider -->
+
+### 🏆 GitHub Trophies<!-- Animated Divider --><!-- Animated Divider -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshguptakiet&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-## 🛠️ Tech Stack & Skills## 🛠️ Tech Stack & Skills
-
-
-
-<div align="center"><div align="center">
+</div>
 
 
 
-### 💻 Programming Languages### 💻 Programming Languages
+<!-- Animated Divider -->
 
-<p><p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">## 🛠️ Tech Stack & Skills## 🛠️ Tech Stack & Skills
+
+
+
+## 🌟 Featured Projects
+
+
+
+<div align="center"><div align="center"><div align="center">
+
+
+
+### 🚀 Pinned Repositories
+
+<div>
+
+  <a href="https://github.com/harshguptakiet">### 💻 Programming Languages### 💻 Programming Languages
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=harshguptakiet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
+
+  </a><p><p>
+
+</div>
 
     <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" />    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" />
 
-</p></p>
-
-
-
-### 🎨 Frontend Development### 🎨 Frontend Development
-
-<p><p>
-
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass&theme=dark" />    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass&theme=dark" />
+</div>
 
 </p></p>
 
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### 🔧 Backend Development### 🔧 Backend Development
 
-<p><p>
+## 📈 Coding Activity### 🎨 Frontend Development### 🎨 Frontend Development
 
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&theme=dark" />    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&theme=dark" />
+
+
+<div align="center"><p><p>
+
+
+
+### ⚡ Recent Activity    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass&theme=dark" />    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass&theme=dark" />
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity--></p></p>
+
+
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->### 🔧 Backend Development### 🔧 Backend Development
+
+
+
+</div><p><p>
+
+
+
+<!-- Animated Divider -->    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&theme=dark" />    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&theme=dark" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p></p>
 
+## 🤝 Let's Connect
 
+
+
+<div align="center">
 
 ### 🗄️ Databases & Cloud### 🗄️ Databases & Cloud
 
-<p><p>
-
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gcp,docker,kubernetes&theme=dark" />    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gcp,docker,kubernetes&theme=dark" />
-
-</p></p>
-
-
-
-### 🛠️ Tools & Technologies### 🛠️ Tools & Technologies
+### 🌐 Find me around the web:
 
 <p><p>
 
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx&theme=dark" />    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx&theme=dark" />
+<p>
 
-</p></p>
+  <a href="https://linkedin.com/in/harshguptakiet">    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gcp,docker,kubernetes&theme=dark" />    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gcp,docker,kubernetes&theme=dark" />
 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
+  </a></p></p>
+
+  <a href="https://github.com/harshguptakiet">
+
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  </a>
+
+  <a href="mailto:harsh@example.com">### 🛠️ Tools & Technologies### 🛠️ Tools & Technologies
+
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+  </a><p><p>
+
+  <a href="https://twitter.com/harshguptakiet">
+
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx&theme=dark" />    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx&theme=dark" />
+
+  </a>
+
+  <a href="https://instagram.com/harshguptakiet"></p></p>
+
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+  </a>
+
+</p>
 
 </div></div>
 
+### 💬 Let's collaborate on innovative projects!
 
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Open+to+exciting+opportunities!;Let's+build+something+amazing+together!;Always+ready+for+new+challenges!" alt="Collaboration Typing SVG" /></a>
 
 <!-- Animated Divider --><!-- Animated Divider -->
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Animated Divider -->
 
-
-## 📊 GitHub Analytics## 📊 GitHub Analytics
-
-
-
-<div align="center"><div align="center">
-
-    
-
-### 🔥 GitHub Streak Stats### 🔥 GitHub Streak Stats
-
-<img src="https://github-readme-streak-stats.vercel.app/?user=harshguptakiet&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats" /><img src="https://github-readme-streak-stats.vercel.app/?user=harshguptakiet&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-### 📈 GitHub Stats### 📈 GitHub Stats
+## ⚡ Fun Facts## 📊 GitHub Analytics## 📊 GitHub Analytics
 
-<div><div>
+
+
+<div align="center">
+
+
+
+```javascript<div align="center"><div align="center">
+
+const funFacts = {
+
+    🎯: "Building next-gen web applications",    
+
+    🌱: "Advanced React patterns & Cloud Architecture", 
+
+    👯: "Open source projects & innovative startups",### 🔥 GitHub Streak Stats### 🔥 GitHub Streak Stats
+
+    🤔: "Machine Learning & Data Science projects",
+
+    💬: "Web Development, UI/UX, Tech Trends",<img src="https://github-readme-streak-stats.vercel.app/?user=harshguptakiet&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats" /><img src="https://github-readme-streak-stats.vercel.app/?user=harshguptakiet&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats" />
+
+    📫: "harsh@example.com",
+
+    😄: "He/Him",
+
+    ⚡: "I debug in my dreams! 🐛💭"
+
+};### 📈 GitHub Stats### 📈 GitHub Stats
+
+
+
+console.log("Thanks for visiting! ⭐ Star my repos if you like my work!");<div><div>
+
+```
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
 
+</div>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguptakiet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguptakiet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8"/>
 
-</div></div>
+<!-- Snake Animation -->
+
+<div align="center"></div></div>
+
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
 
 
 
-### 📊 Contribution Graph### 📊 Contribution Graph
+<!-- Animated Footer -->### 📊 Contribution Graph### 📊 Contribution Graph
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&animation=twinkling"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshguptakiet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" alt="GitHub Activity Graph" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=harshguptakiet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" alt="GitHub Activity Graph" />
 
+<div align="center">
 
+  
+
+### ✨ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ### 🏆 GitHub Trophies### 🏆 GitHub Trophies
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Random Dev Quote"/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=harshguptakiet&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" /><img src="https://github-profile-trophy.vercel.app/?username=harshguptakiet&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
+---
 
+
+
+<sub>🤖 This README is automatically updated with GitHub Actions</sub>
 
 </div></div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%9A%80;Let%E2%80%99s+connect+and+build+together!" alt="Footer Typing SVG" />
 
 
+
+</div>
 <!-- Animated Divider --><!-- Animated Divider -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
