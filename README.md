@@ -36,7 +36,7 @@
 ### 🔥 Contribution Streak & Activity Calendar
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshguptakiet&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=FFA500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=39D353&sideNums=39D353"/>
 
-### 📅 Daily Activity Heatmap (Like LeetCode Green Blocks)
+### 📅 Daily Activity Heatmap 
 <img src="https://ghchart.rshah.org/39D353/harshguptakiet" alt="GitHub Activity Calendar" width="100%"/>
 
 ### 📈 Detailed Contribution Graph
