@@ -324,8 +324,8 @@ Modern creative platform for digital artists and designers with collaborative fe
 | 🌐 **Live Deployments** | 2 | 2 | **4** |
 | ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/harshguptakiet?style=social) | - | Dynamic |
 | 🍴 **Forks** | Growing | Growing | Active |
-| 👥 **Users** | 100+ | 50+ | **150+** |
-| 📈 **Uptime** | 99.9% | 99.5% | **99.7%** |
+| 👁️ **Visibility** | Public | Public | **100%** |
+| 📈 **Status** | Active | Active | **Maintained** |
 
 </div>
 
@@ -415,13 +415,12 @@ Modern creative platform for digital artists and designers with collaborative fe
 <!--START_SECTION:waka-->
 📊 **Weekly Development Breakdown** 
 
-```text
-TypeScript   12 hrs 30 mins  ███████████████░░░░░░   65.2%
-JavaScript   3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   17.1%
-Python       2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░   11.4%
-JSON         45 mins         ██░░░░░░░░░░░░░░░░░░░    3.9%
-Other        25 mins         █░░░░░░░░░░░░░░░░░░░░    2.4%
-```
+*WakaTime stats will appear here once configured*
+
+To enable automatic updates:
+1. Sign up at [WakaTime.com](https://wakatime.com)
+2. Add `WAKATIME_API_KEY` to repository secrets
+3. Stats will update every 2 hours automatically
 
 <!--END_SECTION:waka-->
 
@@ -432,42 +431,34 @@ Other        25 mins         █░░░░░░░░░░░░░░░░
 ### 📊 Recent Activity Feed
 
 <!--START_SECTION:activity-->
-1. 🎉 Pushed new features to **Cura-Genie**
-2. 🔧 Updated **doctor-portal** dependencies
-3. ⚡ Optimized **resume-generator** performance
-4. 🌟 Starred repositories in healthcare tech
-5. 💬 Contributed to open source discussions
+*Recent activity will appear here automatically*
+
+The activity workflow updates this section every 30 minutes with the latest GitHub activities.
 <!--END_SECTION:activity-->
 
-### 📈 Code Time Distribution
+### 📈 Preferred Working Hours (IST)
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
 **🌅 Morning**  
-```
-██████████░░ 45%
-```
-Most Active!
+9 AM - 1 PM  
+Peak Productivity
 
 </td>
 <td align="center" width="33%">
 
 **☀️ Afternoon**  
-```
-████████░░░░ 35%
-```
-Productive Hours
+2 PM - 6 PM  
+Development Focus
 
 </td>
 <td align="center" width="33%">
 
 **🌙 Evening**  
-```
-████░░░░░░░░ 20%
-```
-Wrap-up & Reviews
+7 PM - 10 PM  
+Flexible Availability
 
 </td>
 </tr>
@@ -620,17 +611,30 @@ Active Connections
 </tr>
 </table>
 
-### 📈 Contribution Insights
+### 📈 GitHub Contribution Overview
 
-| Contribution Type | This Week | This Month | All Time |
-|------------------|-----------|------------|----------|
-| 💻 **Commits** | 45+ | 180+ | 500+ |
-| 🔀 **Pull Requests** | 8 | 25+ | 80+ |
-| ⭐ **Issues Created** | 3 | 10+ | 35+ |
-| 💬 **Code Reviews** | 5 | 15+ | 50+ |
-| 🎯 **Contributions** | Active | Consistent | Growing |
+*Contribution statistics are automatically updated from GitHub API*
 
-### 🌟 Repository Quality Metrics
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📊 Activity Level**
+<br/>
+Consistent Contributor
+
+</td>
+<td align="center" width="50%">
+
+**🎯 Engagement**
+<br/>
+Active & Growing
+
+</td>
+</tr>
+</table>
+
+### 🌟 Repository Quality Focus
 
 <table>
 <tr>
@@ -638,29 +642,20 @@ Active Connections
 
 **📝 Documentation**
 <br/>
-```
-████████░░ 85%
-```
-Well Documented
+Well Maintained
 
 </td>
 <td align="center" width="33%">
 
-**✅ Test Coverage**
+**✅ Code Quality**
 <br/>
-```
-███████░░░ 70%
-```
-Good Coverage
+Clean & Structured
 
 </td>
 <td align="center" width="33%">
 
 **🔒 Security**
 <br/>
-```
-█████████░ 90%
-```
 Best Practices
 
 </td>
@@ -687,7 +682,9 @@ Best Practices
 ```yaml
 Institution: KIET Group of Institutions
 Location: Ghaziabad, Uttar Pradesh
-Duration: 2021 - 2025
+Duration: 2021 - 2025 (Final Year)
+Status: Currently pursuing degree
+Expected Graduation: 2025
 Focus Areas:
   • Data Structures & Algorithms
   • Web Development
@@ -700,7 +697,7 @@ Focus Areas:
 - 🏆 Developed multiple production apps
 - 🌟 Active in tech communities
 - 💡 Led healthcare tech projects
-- 📚 Maintained strong academics
+- 📚 Strong academic performance
 
 </td>
 <td width="50%" valign="top">
@@ -731,7 +728,7 @@ Soft Skills:
 </tr>
 </table>
 
-### 💼 Work Readiness Assessment
+### 💼 Self-Assessment
 
 <table align="center">
 <tr>
@@ -739,9 +736,6 @@ Soft Skills:
 
 **💻 Technical**
 <br/>
-```
-█████████░ 90%
-```
 Strong
 
 </td>
@@ -749,9 +743,6 @@ Strong
 
 **🤝 Teamwork**
 <br/>
-```
-████████░░ 85%
-```
 Excellent
 
 </td>
@@ -759,9 +750,6 @@ Excellent
 
 **📊 Management**
 <br/>
-```
-███████░░░ 75%
-```
 Good
 
 </td>
@@ -769,9 +757,6 @@ Good
 
 **🎨 Design**
 <br/>
-```
-████████░░ 80%
-```
 Very Good
 
 </td>
@@ -779,14 +764,13 @@ Very Good
 
 **🔧 DevOps**
 <br/>
-```
-███████░░░ 70%
-```
 Proficient
 
 </td>
 </tr>
 </table>
+
+*Self-assessed competencies based on project experience*
 
 </div>
 
@@ -987,7 +971,7 @@ Focused on delivering business value
 </p>
 
 <p align="center">
-  <b>📅 Last Updated: January 2026</b> | 
+  <b>📅 Last Updated: January 29, 2026</b> | 
   <b>✨ Profile Views: <img src="https://komarev.com/ghpvc/?username=harshguptakiet&color=2F81F7" alt="Profile Views"/></b> | 
   <b>💫 Made with ❤️ by Harsh Gupta</b>
 </p>

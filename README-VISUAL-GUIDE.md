@@ -127,10 +127,25 @@ Projects highlighted:
 10. **komarev.com/ghpvc**: Profile view counter
 
 ### Workflow Automations
-1. **snake.yml**: Generates contribution snake animation (every 12 hours)
-2. **activity.yml**: Updates recent activity (every 30 minutes)
-3. **waka-readme.yml**: Updates WakaTime stats (every 2 hours)
-4. **update-readme.yml**: General README updates (every 6 hours)
+1. **snake.yml** (NEW) ⚡
+   - Generates contribution snake animation
+   - Runs every 12 hours
+   - Outputs to `output` branch
+
+2. **activity.yml** (Existing)
+   - Updates recent activity section
+   - Runs every 30 minutes
+   - Max 5 activities displayed
+
+3. **waka-readme.yml** (Existing)
+   - Updates WakaTime coding stats
+   - Runs every 2 hours
+   - Requires `WAKATIME_API_KEY` secret
+
+4. **update-readme.yml** (Existing)
+   - General README updates
+   - Runs every 6 hours
+   - Customizable update logic
 
 ## Recruiter-Friendly Features
 
