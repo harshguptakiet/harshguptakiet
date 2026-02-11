@@ -682,9 +682,9 @@ Best Practices
 ```yaml
 Institution: KIET Group of Institutions
 Location: Ghaziabad, Uttar Pradesh
-Duration: 2021 - 2025 (Final Year)
+Duration: 2023 - 2027 (Final Year)
 Status: Currently pursuing degree
-Expected Graduation: 2025
+Expected Graduation: 2027
 Focus Areas:
   • Data Structures & Algorithms
   • Web Development
