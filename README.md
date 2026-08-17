@@ -5,9 +5,14 @@
      excluded: github-readme-stats (503), github-profile-trophy (402),
      github-contributor-stats (402).
      ═══════════════════════════════════════════════════════════════════════ -->
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 <div align="center">
-
+<!-- ── WELCOME TYPEWRITER ─────────────────────────────────────────────── -->
+<a href="https://github.com/harshguptakiet">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=2F81F7&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+my+corner+of+GitHub+%F0%9F%91%8B;I%27m+Harsh+%E2%80%94+Full-Stack+Engineer;I+build+complete+systems%2C+not+demos;Healthcare+%C2%B7+EdTech+%C2%B7+Applied+AI" alt="Welcome — I'm Harsh, a Full-Stack Engineer building healthcare, EdTech and applied AI systems"/>
+</a>
 
 <a href="https://cura-genie.vercel.app/"><img src="https://img.shields.io/badge/Flagship-CuraGenie-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/harshguptakiet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
