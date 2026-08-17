@@ -1,976 +1,466 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HARSH GUPTA · GitHub Profile README
+     Repo: github.com/harshguptakiet/harshguptakiet
+     Every image endpoint here was live-tested. Dead services intentionally
+     excluded: github-readme-stats (503), github-profile-trophy (402),
+     github-contributor-stats (402).
+     ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ANIMATED HEADER WITH GRADIENT BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARSH%20GUPTA&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Gupta&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20·%20AI%20Systems%20·%20Healthcare%20%26%20EdTech&descSize=15&descAlignY=54&animation=twinkling"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&lines=💻+Full+Stack+Developer;🚀+TypeScript+Specialist;🏥+Healthcare+Tech+Innovator;🌱+Continuous+Learner" alt="Typing SVG"/>
-</p>
+<a href="https://cura-genie.vercel.app/"><img src="https://img.shields.io/badge/Flagship-CuraGenie-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/harshguptakiet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:guptasecularharsh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=harshguptakiet&color=2F81F7&style=for-the-badge&label=VISITORS"/>
 
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://cura-genie.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/harshguptakiet">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:guptasecularharsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/harshguptakiet">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<!-- PROFILE METRICS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshguptakiet&color=2F81F7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/harshguptakiet?style=for-the-badge&color=2F81F7&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/harshguptakiet?style=for-the-badge&color=2F81F7&label=Total+Stars" alt="Stars"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=2F81F7&center=true&vCenter=true&width=720&lines=480+API+endpoints+in+one+ERP;268+database+models%2C+221%2F221+tests+green;22+forks+on+an+AI+healthcare+platform;31+repos+·+~14.8+MB+of+real+source+code"/>
 
 </div>
 
 ---
 
+## `~$ whoami`
+
+```console
+harsh@github:~$ cat profile.json
+{
+  "name":     "Harsh Gupta",
+  "role":     "Full-Stack Engineer · AI Systems Builder",
+  "based_in": "Lucknow, Uttar Pradesh, India  (UTC+5:30)",
+  "studying": "B.Tech Computer Science · KIET Group of Institutions",
+  "shipping": ["Tekurious ERP", "CuraGenie", "Stress Dost", "ClaimWise"],
+  "domains":  ["Healthcare Tech", "EdTech / ERP", "Voice & IoT", "Applied ML"],
+  "stack":    ["TypeScript", "Python", "NestJS", "Next.js", "FastAPI", "PostgreSQL"],
+  "status":   "open to roles · internships · collaborations"
+}
+
+harsh@github:~$ ls -la ~/work | tail -1
+# 31 public repositories · ~14.8 MB tracked source · building since Nov 2024
+```
+
+I build **complete systems, not demos.** My repos lean into the unglamorous parts of software
+that actually decide whether a product survives: multi-tenant schema design, auth and RBAC,
+background jobs, real-time transport, OCR pipelines, and model-serving APIs.
+
+Most of my work lives where **healthcare, education, and applied AI** overlap.
+
+---
+
+## 🧭 The Map
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#161b22','primaryTextColor':'#c9d1d9','lineColor':'#2f81f7','fontSize':'13px'}}}%%
+flowchart LR
+    A(["Harsh Gupta"]) --> B["Healthcare Tech"]
+    A --> C["EdTech / ERP"]
+    A --> D["AI, Voice &amp; Agents"]
+    A --> E["Vision &amp; Data"]
+
+    B --> B1["CuraGenie<br/>genomics + AI insight"]
+    B --> B2["Doctor Portal<br/>Telehealth"]
+    B --> B3["Heart-Disease Analytics<br/>Python + MySQL + Tableau"]
+
+    C --> C1["Tekurious ERP<br/>480 endpoints · 268 models"]
+    C --> C2["Stress Dost<br/>adaptive focus testing"]
+    C --> C3["Acadza Recommender<br/>explainable study plans"]
+
+    D --> D1["FastAPI Voice Agent<br/>MQTT · Raspberry Pi · GCP"]
+    D --> D2["Darshan AI<br/>Next.js + FastAPI chat"]
+    D --> D3["ClaimWise<br/>OCR + reactive routing"]
+
+    E --> E1["Waste Detection<br/>YOLOv8 realtime"]
+    E --> E2["Sorting Visualizer<br/>where it all started"]
+```
+
+---
+
+## 📊 GitHub Pulse
+
 <div align="center">
 
-## 💼 PROFESSIONAL PROFILE
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshguptakiet&theme=github_dark" width="100%"/>
+
+<img height="200" src="https://streak-stats.demolab.com/?user=harshguptakiet&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=39D353&fire=FF7B00&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshguptakiet&theme=github_dark"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshguptakiet&bg_color=0d1117&color=2f81f7&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Activity" width="100%"/>
+
+**Contribution grid**
+
+<img src="https://ghchart.rshah.org/2F81F7/harshguptakiet" width="100%" alt="Harsh Gupta's contribution chart"/>
 
 </div>
 
-<table align="center">
+### By the numbers
+
+<div align="center">
+
+| 📦 Public repos | ⭐ Peak stars | � Peak forks | 💾 Tracked source | 📅 Building since |
+|:---:|:---:|:---:|:---:|:---:|
+| **31** | **6** · Cura-Genie | **22** · Cura-Genie | **~14.8 MB** | **Nov 2024** |
+
+</div>
+
+### Language distribution — measured from actual repository bytes
+
+| Language | Share | | Where it lives |
+|---|---:|---|---|
+| **TypeScript** | `49.9%` | `████████████████████░░░░░░░░░░░░░░░░░░░░` | Tekurious ERP, CuraGenie, ClaimWise, Doctor Portal |
+| **Python** | `20.6%` | `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | FastAPI services, Flask apps, ML pipelines |
+| **Jupyter** | `13.4%` | `█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | Genomics work, model experimentation |
+| **JavaScript** | `8.4%` | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | Real-time frontends, visualizers |
+| **HTML · CSS** | `6.2%` | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | Static builds, dashboards |
+| **Vue · Shell · SQL · Docker** | `1.5%` | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | Storefronts, deploys, migrations |
+
+<div align="center">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshguptakiet&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshguptakiet&theme=github_dark&utcOffset=5.5"/>
+</div>
+
+---
+
+## 🚀 Featured Work
+
+> Six projects that best represent how I build. Every link below was tested and is live.
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Quick Facts (For Recruiters)
+### 🏥 CuraGenie
+**AI-powered healthcare & genomics platform**
+
+`Next.js 15` · `FastAPI` · `TypeScript` · `Python` · `Docker`
+
+Genomic data ingestion, ML-driven risk insight, and a patient-facing dashboard. My most
+community-adopted project, with a companion notebook repo carrying the model research.
+
+<img src="https://img.shields.io/badge/⭐-6_stars-FFD700?style=flat-square"/> <img src="https://img.shields.io/badge/🍴-22_forks-2F81F7?style=flat-square"/> <img src="https://img.shields.io/badge/status-active-39D353?style=flat-square"/>
+
+**[▶ Live demo](https://cura-genie.vercel.app/) · [Code](https://github.com/harshguptakiet/Cura-Genie) · [Notebooks](https://github.com/harshguptakiet/Cura_Genie)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Tekurious ERP
+**Complete school-management platform — my largest build**
+
+`NestJS` · `Prisma` · `PostgreSQL` · `Redis` · `Next.js`
+
+A real enterprise system: multi-tenancy, RBAC, 2FA, device trust, timetabling, fees,
+live classes, content delivery, analytics.
 
 ```yaml
-Role: Full Stack Developer & Software Engineer
-Experience: Building Production-Ready Apps
-Location: Lucknow, Uttar Pradesh 🇮🇳
-Timezone: IST (UTC +5:30)
-Work Mode: Remote | Hybrid | On-site
-Status: 🟢 Open to Opportunities
+API endpoints:    480
+Database models:  268
+Modules shipped:  17 / 17
+Automated tests:  221 / 221  ✅
+TypeScript:       ~4.0 MB
 ```
 
-**💡 Core Expertise:**
-- ✅ Full Stack Web Development
-- ✅ Healthcare Technology Solutions
-- ✅ Modern React & TypeScript
-- ✅ Python & Java Development
-- ✅ Cloud Deployment & DevOps
-- ✅ Database Design & Optimization
+**[Code](https://github.com/harshguptakiet/tek_erp)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧘 Stress Dost
+**Focus testing that measures you under pressure**
+
+`Flask` · `Socket.IO` · `OpenAI` · `SQLAlchemy` · `eventlet`
+
+Instead of a quiet quiz, it *deliberately* stresses the user: bouncing questions,
+spotlight effects, adaptive difficulty. Real-time scoring over WebSockets, AI-generated
+question banks, per-session analytics.
+
+<img src="https://img.shields.io/badge/realtime-Socket.IO-010101?style=flat-square&logo=socket.io"/> <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+
+**[Code](https://github.com/harshguptakiet/stress-dost) · [Web build](https://github.com/harshguptakiet/stress-dost-web)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 What I Bring to the Table
+### 📄 ClaimWise
+**Insurance claims intelligence with reactive routing**
 
-```diff
-+ 🏗️  Architecting scalable web applications
-+ 💡  Innovative problem-solving approach
-+ 🎨  UI/UX focused development
-+ 🔒  Security-first mindset
-+ 📈  Performance optimization expert
-+ 🤝  Strong collaboration & communication
-+ 📚  Continuous learner & tech enthusiast
-+ 🎯  Deadline-driven & result-oriented
+`TypeScript` · `Python` · `Pathway` · `OCR` · `Gemini`
+
+Multi-document intake → OCR extraction → fraud / complexity / severity scoring →
+rule-based routing. Pathway-backed streaming means a **rule change reassigns claims
+without reprocessing anything.** Ships with a claim-aware chat assistant.
+
+**[Code](https://github.com/harshguptakiet/claimwise)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ FastAPI Voice Agent
+**MQTT voice assistants running on Raspberry Pi**
+
+`FastAPI` · `MQTT` · `GCP` · `Raspberry Pi` · `Shell`
+
+An IoT voice-toy platform: edge devices talk to a cloud LLM backend over MQTT, with
+swappable domain bots, a full architecture spec, and a documented 15-minute deploy path.
+
+**[Code](https://github.com/harshguptakiet/fastapi_voice_agent) · [v1 prototype](https://github.com/harshguptakiet/fastapi-voice)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Acadza Recommender
+**An explainable study-plan engine**
+
+`FastAPI` · `Python` · `Rule Engine`
+
+Treated as a learning-system design problem, not a scoring script:
+
+`Raw Data → Cleaning → Features → Insights → Rules → Plan → API`
+
+Every recommendation traces back to the behavioural signal that triggered it — a digital
+tutor that diagnoses before it prescribes.
+
+**[Code](https://github.com/harshguptakiet/recommender_system)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗂️ Full Repository Index — all 31
+
+<details>
+<summary><b>🏥 Healthcare & Life Sciences</b> · 7 repos</summary>
+
+<br/>
+
+| Repo | Stack | Highlight | |
+|---|---|---|---|
+| **Cura-Genie** | TypeScript · FastAPI | ⭐6 · 🍴22 — flagship platform | [Live](https://cura-genie.vercel.app/) |
+| **Cura_Genie** | Jupyter · Python | ⭐2 — genomics notebooks & models | [Code](https://github.com/harshguptakiet/Cura_Genie) |
+| **cura-g** | TypeScript · Python | Earlier architecture iteration | [Code](https://github.com/harshguptakiet/cura-g) |
+| **doctor-portal** | TypeScript · Next.js | Practitioner console & scheduling | [Live](https://doctor-portal-v2l7-dywebukf6-harshguptakiets-projects.vercel.app/) |
+| **telehealth** | TypeScript | Remote-consultation frontend | [Code](https://github.com/harshguptakiet/telehealth) |
+| **disease-symptoms** | Python | Symptom → condition mapping | [Code](https://github.com/harshguptakiet/disease-symptoms) |
+| **tableau-heart-disease** | Python · MySQL · Tableau · Flask | End-to-end risk-factor dashboard | [Code](https://github.com/harshguptakiet/tableau-heart-disease) |
+
+</details>
+
+<details>
+<summary><b>🎓 EdTech, ERP & Learning Systems</b> · 5 repos</summary>
+
+<br/>
+
+| Repo | Stack | Highlight |
+|---|---|---|
+| **tek_erp** | NestJS · Prisma · PostgreSQL · Redis | 480 endpoints, 268 models, 221 tests green |
+| **stress-dost** | Flask · Socket.IO · OpenAI | Real-time adaptive focus testing |
+| **stress-dost-web** | Python · JavaScript | Web-optimised rebuild |
+| **recommender_system** | FastAPI | Explainable, staged study recommendations |
+| **Sorting-Visualizer** | JavaScript · CSS | ⭐2 — my first repo, still a clean teaching tool |
+
+</details>
+
+<details>
+<summary><b>🤖 AI, Voice & Agents</b> · 4 repos</summary>
+
+<br/>
+
+| Repo | Stack | Highlight |
+|---|---|---|
+| **fastapi_voice_agent** | FastAPI · MQTT · GCP | IoT voice toys on Raspberry Pi |
+| **fastapi-voice** | Python · FastAPI | ⭐1 — first voice-pipeline prototype |
+| **darshan-ai** | Next.js · FastAPI | Dual-app chatbot workspace · [Live](https://darshan-ai-liart.vercel.app/) |
+| **claimwise** | TypeScript · Python · Pathway | ⭐1 — OCR + ML claims routing, Gemini chat |
+
+</details>
+
+<details>
+<summary><b>🌍 Computer Vision & Social Impact</b> · 3 repos</summary>
+
+<br/>
+
+| Repo | Stack | Highlight |
+|---|---|---|
+| **waste-detection-main** | YOLOv8 · Streamlit | ⭐2 — live webcam sorting: recyclable / non-recyclable / hazardous |
+| **swachh-yatra** | HTML · CSS | ⭐2 — civic cleanliness awareness build |
+| **quantum-computing** | React | ⭐2 — quantum-concept explainer app |
+
+</details>
+
+<details>
+<summary><b>🛠️ Tools, Web & Foundations</b> · 10 repos</summary>
+
+<br/>
+
+| Repo | Stack | Highlight |
+|---|---|---|
+| **resume-generator** | Python · Streamlit | ⭐1 — AI-assisted resume builder · [Live](https://resume-generator-hdzstpyjs9rx3bpptsszlq.streamlit.app/) |
+| **qr-gen** | JavaScript | ⭐1 — zero-dependency QR generator · [Live](https://qr-generator-webcode.netlify.app/) |
+| **tanishq** | Vue 3 · Vite | ⭐1 — jewellery storefront · [Live](https://tanishq-wine.vercel.app/) |
+| **feedback-frontend** | JavaScript | ⭐2 — client half of a full-stack feedback loop |
+| **feedback-backend** | Python | ⭐2 — API half, split cleanly |
+| **python-projects** | Python | ⭐2 — scripting & automation collection |
+| **bookstore** | HTML | ⭐2 — early frontend fundamentals |
+| **my-contribution** | Python | ⭐2 — open-source contribution work |
+| **PRACTICAL** | JavaScript | ⭐2 — coursework and practice |
+| **harshguptakiet** | Markdown | ⭐2 — this profile |
+
+</details>
+
+<details>
+<summary><b>🤝 Open Source Contributions</b> · 2 repos</summary>
+
+<br/>
+
+| Project | What it is |
+|---|---|
+| **[eventyay](https://github.com/harshguptakiet/eventyay)** | FOSSASIA — open-source event management, ticketing, talks & video |
+| **strees_dost_web_system** | Collaborative fork of the Stress Dost web system |
+
+</details>
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css,md,bash&theme=dark"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite,materialui&theme=dark"/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,fastapi,flask,graphql,jest&theme=dark"/>
+
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase,sqlite&theme=dark"/>
+
+**Cloud, ML & Tooling**
+
+<img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify,docker,githubactions,tensorflow,opencv,git,linux,figma,postman&theme=dark"/>
+
+</div>
+
+| Layer | Comfortable shipping | Actively deepening |
+|---|---|---|
+| **Frontend** | React, Next.js App Router, TypeScript, Tailwind, state management | Server Components, streaming UI, a11y depth |
+| **Backend** | NestJS, FastAPI, Flask, Express, REST design, auth & RBAC | Event-driven architecture, queues at scale |
+| **Data** | PostgreSQL, Prisma, MySQL, MongoDB, Redis, schema modelling | Query planning, partitioning, pgvector |
+| **AI / ML** | OpenAI & Gemini APIs, YOLOv8, OCR, RAG pipelines | Fine-tuning, eval harnesses, guardrails |
+| **DevOps** | Docker, GitHub Actions, Vercel, GCP, Render | Kubernetes, observability, infra-as-code |
+
+---
+
+## 🔭 Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building right now
+
+```yaml
+Tekurious ERP:
+  - remaining FR coverage → 100%
+  - hardening auth: 2FA, device trust,
+    session policy, suspicious activity
+  - analytics & reporting module
+
+CuraGenie v2:
+  - richer genomic risk models
+  - real-time consultation layer
+
+ClaimWise:
+  - wider OCR document coverage
+  - reactive routing benchmarks
 ```
 
-**🎓 Background:**
-- Computer Science Engineering Student (Final Year)
-- Active Open Source Contributor
-- Healthcare Tech Specialist
-- Modern Web Technologies Advocate
+</td>
+<td width="50%" valign="top">
+
+### Learning deliberately
+
+```yaml
+Now:
+  - distributed systems & event sourcing
+  - PostgreSQL internals + query tuning
+  - LLM evaluation and guardrails
+  - Kubernetes, platform observability
+
+Next:
+  - Go for high-throughput services
+  - Rust for systems fundamentals
+  - large-scale system design
+```
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### 🎨 Professional Summary
-
-> *Building production-ready applications with modern technologies. Specialized in healthcare tech solutions, full-stack development, and creating seamless user experiences. Passionate about writing clean code and contributing to the tech community.*
-
-**🌟 GitHub Journey:** Member since November 2024 | **📅 Last Updated:** August 17, 2026
-
-</div>
 
 ---
 
-## 📊 GITHUB ANALYTICS & ACTIVITY VISUALIZATION
+## 📈 The Journey
+
+```text
+Nov 2024   ●  First commits — Sorting Visualizer, Bookstore, Swachh Yatra
+           │  Learning the web from first principles
+2025 Q1-Q2 ●  Python, ML and full-stack fundamentals
+           │  Feedback platform · Waste Detection (YOLOv8) · Quantum explainer
+Aug 2025   ●  CuraGenie begins — healthcare becomes the focus
+           │  Grew to 6 stars and 22 forks; taught me real architecture
+Sep 2025   ●  Healthcare cluster: Doctor Portal, Telehealth, Resume Generator
+Nov 2025   ●  ClaimWise — OCR, ML scoring, reactive streaming routing
+2026 Q1-Q2 ●  Voice + IoT over MQTT · Darshan AI · Acadza Recommender
+Jul 2026   ●  Tekurious ERP — 480 endpoints, 268 models, enterprise scale
+Today      ●  Still shipping. 31 repos, ~14.8 MB of source, no filler.
+```
 
 <div align="center">
-
-### 🔥 Contribution Streak & Statistics
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshguptakiet&theme=radical&hide_border=true&background=0D1117&stroke=39D353&ring=2F81F7&fire=FFA500&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="GitHub Stats"/>
-
-</td>
-</tr>
-</table>
-
-### 📅 Activity Heatmap & Contribution Graph
-
-<img src="https://ghchart.rshah.org/2F81F7/harshguptakiet" alt="GitHub Contribution Calendar" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshguptakiet&bg_color=0d1117&color=2F81F7&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph"/>
-
-### 💻 Language Distribution & Metrics
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguptakiet&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshguptakiet&theme=radical" alt="Repos per Language"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshguptakiet&theme=radical" alt="Most Commit Language"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshguptakiet&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS & CONTRIBUTIONS
-
-<div align="center">
-
-### 🎯 Profile Summary & Detailed Metrics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshguptakiet&theme=radical" alt="Profile Details"/>
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshguptakiet&theme=radical" alt="Stats Card"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshguptakiet&theme=radical&utcOffset=5.5" alt="Commit Time"/>
-
-</td>
-</tr>
-</table>
-
-### 🏅 GitHub Trophies & Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshguptakiet&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-
-### 📊 Contribution Metrics
-
-<img src="https://github-contributor-stats.vercel.app/api?username=harshguptakiet&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-
-### 🐍 Contribution Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/harshguptakiet/harshguptakiet/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## 💼 FEATURED PROJECTS & PORTFOLIO
+## 🤝 Let's Work Together
 
 <div align="center">
 
-### 🌟 Live Production Projects
+| 📍 Location | 🕐 Timezone | 💼 Status | ⏱️ Reply time |
+|:---:|:---:|:---:|:---:|
+| Lucknow, India | IST · UTC+5:30 | 🟢 Open to opportunities | Under 24 hours |
 
-</div>
+**Looking for** · Full-Stack / Backend Engineer roles · internships · healthcare & EdTech collaborations
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Open to** · Remote · Hybrid · On-site · Contract
 
-#### 🏥 **Cura-Genie** - Healthcare Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=Cura-Genie&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="Cura-Genie Repo"/>
+<a href="mailto:guptasecularharsh@gmail.com"><img src="https://img.shields.io/badge/Email-guptasecularharsh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/harshguptakiet"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/harshguptakiet?tab=repositories"><img src="https://img.shields.io/badge/Browse-All_31_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-**📋 Description:**  
-Comprehensive healthcare management platform with patient records, appointment scheduling, and medical analytics.
-
-**🛠️ Tech Stack:**  
-`TypeScript` `React` `Next.js` `Tailwind CSS` `Firebase`
-
-**🎯 Key Features:**
-- 🔐 Secure patient data management
-- 📅 Smart appointment scheduling
-- 📊 Health analytics dashboard
-- 💊 Prescription management
-- 📱 Responsive design
-
-**🌐 Live Demo:** [cura-genie.vercel.app](https://cura-genie.vercel.app)  
-**📈 Status:** 🟢 **Active Development**
-
----
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏥 **Doctor Portal** - Medical Management
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=doctor-portal&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="Doctor Portal Repo"/>
-
-**📋 Description:**  
-Professional doctor management system for healthcare providers with advanced features.
-
-**🛠️ Tech Stack:**  
-`TypeScript` `React` `Next.js` `MongoDB` `Node.js`
-
-**🎯 Key Features:**
-- 👨‍⚕️ Doctor profile management
-- 🗓️ Calendar integration
-- 📝 Patient consultation notes
-- 📊 Practice analytics
-- 🔔 Notification system
-
-**🌐 Live Demo:** [doctor-portal-eight.vercel.app](https://doctor-portal-eight.vercel.app)  
-**📈 Status:** 🟢 **Production Ready**
-
----
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📄 **Resume Generator** - AI-Powered Tool
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=resume-generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="Resume Generator Repo"/>
-
-**📋 Description:**  
-AI-powered resume builder with smart suggestions and professional templates.
-
-**🛠️ Tech Stack:**  
-`Python` `Streamlit` `OpenAI` `PDF Generation`
-
-**🎯 Key Features:**
-- 🤖 AI-powered content suggestions
-- 📄 Multiple professional templates
-- ⚡ Real-time preview
-- 💾 Export to PDF
-- 🎨 Customizable styling
-
-**🌐 Live Demo:** [resume-generator.streamlit.app](https://resume-generator-hdzstpyjs9rx3bpptsszlq.streamlit.app)  
-**📈 Status:** 🟢 **Live & Updated**
-
----
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 **Fresh Canvas Vibes** - Creative Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=fresh-canvas-vibes&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="Fresh Canvas Vibes Repo"/>
-
-**📋 Description:**  
-Modern creative platform for digital artists and designers with collaborative features.
-
-**🛠️ Tech Stack:**  
-`TypeScript` `React` `Next.js` `Canvas API` `WebSocket`
-
-**🎯 Key Features:**
-- 🎨 Digital canvas tools
-- 🤝 Real-time collaboration
-- 💾 Cloud storage
-- 🖼️ Gallery showcase
-- 📤 Export & share
-
-**🌐 Live Demo:** [fresh-canvas-vibes.vercel.app](https://fresh-canvas-vibes.vercel.app)  
-**📈 Status:** 🟢 **Active**
-
----
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 📊 Project Impact Metrics
-
-| Metric | Healthcare Projects | Development Tools | Total |
-|--------|-------------------|------------------|-------|
-| 🌐 **Live Deployments** | 2 | 2 | **4** |
-| ⭐ **Total Stars** | ![Stars](https://img.shields.io/github/stars/harshguptakiet?style=social) | - | Dynamic |
-| 🍴 **Forks** | Growing | Growing | Active |
-| 👁️ **Visibility** | Public | Public | **100%** |
-| 📈 **Status** | Active | Active | **Maintained** |
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ TECHNICAL SKILLS & EXPERTISE
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### ⚡ Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/>
-</p>
-
-### 🗄️ Databases & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-</p>
-
-### ☁️ Cloud & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
-### 🛠️ Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
-</p>
-
-### 📱 Mobile & Other
-
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-</div>
-
----
-
-## 📈 CODING ACTIVITY & TIME TRACKING
-
-<div align="center">
-
-### ⏱️ Development Metrics
-
-**Recent Focus Areas (Aug 2026):**
-- 🎯 Full Stack Development
-- 📱 React & Next.js Projects
-- 🏥 Healthcare Tech Solutions
-- ☁️ Cloud Deployment & DevOps
-- 📊 Database Optimization
-
-### 🕐 Most Productive Hours (IST - UTC+5:30)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshguptakiet&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-
-### 📊 Recent Activity Feed
-
-*Recent activity is automatically updated from GitHub API*
-
-The activity workflow updates this section regularly with the latest GitHub activities.
-
-### 📈 Preferred Working Hours (IST)
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**🌅 Morning**  
-9 AM - 1 PM  
-Peak Productivity
-
-</td>
-<td align="center" width="33%">
-
-**☀️ Afternoon**  
-2 PM - 6 PM  
-Development Focus
-
-</td>
-<td align="center" width="33%">
-
-**🌙 Evening**  
-7 PM - 10 PM  
-Flexible Availability
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎯 CURRENT FOCUS & LEARNING
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 What I'm Building
-
-```yaml
-🏥 Healthcare Platform: Cura-Genie v2.0
-   ├─ Advanced patient analytics
-   ├─ AI-powered diagnostics
-   └─ Real-time telemedicine
-
-📱 Mobile App: Doctor Portal Mobile
-   ├─ React Native development
-   ├─ Offline-first architecture
-   └─ Cross-platform compatibility
-
-🤖 AI Integration: Smart Resume
-   ├─ GPT-4 integration
-   ├─ Custom ML models
-   └─ Intelligent suggestions
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Currently Learning
-
-```yaml
-Advanced Topics:
-  ✨ Web3 & Blockchain Development
-  ✨ Advanced React Patterns (Server Components)
-  ✨ Microservices Architecture
-  ✨ GraphQL & Apollo Client
-  ✨ DevOps & Kubernetes
-  ✨ AI/ML Integration in Web Apps
-
-Next on Radar:
-  🎯 Rust Programming
-  🎯 Go for Backend Services
-  🎯 Cloud Native Development
-  🎯 System Design at Scale
-```
-
-</td>
-</tr>
-</table>
-
-### 💡 Open to Opportunities In
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-4CAF50?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/Healthcare_Tech-FF6B6B?style=for-the-badge&logo=health&logoColor=white" alt="Healthcare"/>
-  <img src="https://img.shields.io/badge/React_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-### 👯 Looking to Collaborate On
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**🏥 Healthcare**
-Open source medical platforms
-
-</td>
-<td align="center" width="25%">
-
-**🚀 Startups**
-Early-stage tech ventures
-
-</td>
-<td align="center" width="25%">
-
-**🌐 Web3**
-Decentralized applications
-
-</td>
-<td align="center" width="25%">
-
-**🤖 AI/ML**
-Intelligent web apps
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 REPOSITORY INSIGHTS & STATISTICS
-
-<div align="center">
-
-### 📦 Portfolio Overview
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**📚 Repositories**
 <br/>
-<img src="https://img.shields.io/badge/Total-17+-2F81F7?style=for-the-badge" alt="Repos"/>
-<br/>
-Public & Active
 
-</td>
-<td align="center" width="25%">
-
-**⭐ Total Stars**
-<br/>
-![Stars](https://img.shields.io/github/stars/harshguptakiet?style=for-the-badge&color=FFD700)
-<br/>
-Community Support
-
-</td>
-<td align="center" width="25%">
-
-**👥 Followers**
-<br/>
-![Followers](https://img.shields.io/github/followers/harshguptakiet?style=for-the-badge&color=39D353)
-<br/>
-Growing Network
-
-</td>
-<td align="center" width="25%">
-
-**🔄 Following**
-<br/>
-<img src="https://img.shields.io/badge/Active-Contributors-2F81F7?style=for-the-badge" alt="Following"/>
-<br/>
-Active Connections
-
-</td>
-</tr>
-</table>
-
-### 📈 GitHub Contribution Overview
-
-*Contribution statistics are automatically updated from GitHub API*
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**📊 Activity Level**
-<br/>
-Consistent Contributor
-
-</td>
-<td align="center" width="50%">
-
-**🎯 Engagement**
-<br/>
-Active & Growing
-
-</td>
-</tr>
-</table>
-
-### 🌟 Repository Quality Focus
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**📝 Documentation**
-<br/>
-Well Maintained
-
-</td>
-<td align="center" width="33%">
-
-**✅ Code Quality**
-<br/>
-Clean & Structured
-
-</td>
-<td align="center" width="33%">
-
-**🔒 Security**
-<br/>
-Best Practices
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎓 EDUCATION & CERTIFICATIONS
-
-<div align="center">
-
-### 🏫 Educational Background
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎓 Bachelor of Technology
-**Computer Science & Engineering**
-
-```yaml
-Institution: KIET Group of Institutions
-Location: Ghaziabad, Uttar Pradesh
-Duration: 2023 - 2027 (Final Year)
-Status: Currently pursuing degree
-Expected Graduation: 2027
-Focus Areas:
-  • Data Structures & Algorithms
-  • Web Development
-  • Database Management
-  • Software Engineering
-  • Cloud Computing
-```
-
-**Key Achievements:**
-- 🏆 Developed multiple production apps
-- 🌟 Active in tech communities
-- 💡 Led healthcare tech projects
-- 📚 Strong academic performance
-
-</td>
-<td width="50%" valign="top">
-
-#### 📜 Skills & Certifications
-
-```yaml
-Professional Skills:
-  ✅ Full Stack Development
-  ✅ React & Next.js Expertise
-  ✅ TypeScript Proficiency
-  ✅ Python Development
-  ✅ Database Design
-  ✅ Cloud Deployment
-  ✅ Git & Version Control
-  ✅ Agile Methodologies
-
-Soft Skills:
-  ⭐ Problem Solving
-  ⭐ Team Collaboration
-  ⭐ Project Management
-  ⭐ Technical Communication
-  ⭐ Time Management
-  ⭐ Leadership
-```
-
-</td>
-</tr>
-</table>
-
-### 💼 Self-Assessment
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-
-**💻 Technical**
-<br/>
-Strong
-
-</td>
-<td align="center" width="20%">
-
-**🤝 Teamwork**
-<br/>
-Excellent
-
-</td>
-<td align="center" width="20%">
-
-**📊 Management**
-<br/>
-Good
-
-</td>
-<td align="center" width="20%">
-
-**🎨 Design**
-<br/>
-Very Good
-
-</td>
-<td align="center" width="20%">
-
-**🔧 DevOps**
-<br/>
-Proficient
-
-</td>
-</tr>
-</table>
-
-*Self-assessed competencies based on project experience and practical application*
-
-</div>
-
----
-
-## 🌐 CONNECT & COLLABORATE
-
-<div align="center">
-
-### 💼 Professional Networking
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤝 Open to Opportunities
-
-```yaml
-Position Types:
-  ✨ Full-time Software Engineer
-  ✨ Full Stack Developer
-  ✨ React/TypeScript Developer
-  ✨ Healthcare Tech Specialist
-  ✨ Internship/Co-op Programs
-  ✨ Contract/Freelance Projects
-
-Work Arrangements:
-  🏢 On-site (Lucknow & nearby)
-  🏠 Remote (Preferred)
-  🔄 Hybrid (Flexible)
-
-Available For:
-  📅 Immediate start
-  💼 Long-term commitments
-  🚀 Exciting challenges
-  🌱 Growth opportunities
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### 💡 Consultation & Services
-
-```yaml
-Offerings:
-  🔍 Code Review & Audits
-  🏗️  Architecture Design
-  🎓 Technical Mentoring
-  📊 Project Consultation
-  🔧 Bug Fixes & Optimization
-  ⚡ Performance Tuning
-  🎨 UI/UX Implementation
-  📱 Full Stack Development
-
-Industries:
-  🏥 Healthcare & MedTech
-  💼 Enterprise Solutions
-  🎓 EdTech Platforms
-  🛒 E-commerce
-  📱 Mobile Applications
-  🌐 SaaS Products
-```
-
-</td>
-</tr>
-</table>
-
-### 📬 Get in Touch
-
-<p align="center">
-  <a href="mailto:guptasecularharsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guptasecularharsh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/harshguptakiet">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/harshguptakiet">
-    <img src="https://img.shields.io/badge/GitHub-Follow_me-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://cura-genie.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-### 📍 Location & Availability
-
-<table align="center">
-<tr>
-<td align="center">
-
-**📍 Location**  
-Lucknow, Uttar Pradesh, India
-
-</td>
-<td align="center">
-
-**🕐 Timezone**  
-IST (UTC +5:30)
-
-</td>
-<td align="center">
-
-**💼 Status**  
-🟢 Available for Work
-
-</td>
-<td align="center">
-
-**⏰ Response Time**  
-< 24 hours
-
-</td>
-</tr>
-</table>
-
-### 🎯 Why Work With Me?
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🚀 Fast Learner**
-<br/>
-Quick to adapt to new technologies and frameworks
-
-</td>
-<td align="center" width="25%">
-
-**💎 Quality Code**
-<br/>
-Clean, maintainable, and well-documented code
-
-</td>
-<td align="center" width="25%">
-
-**🤝 Team Player**
-<br/>
-Excellent collaboration and communication
-
-</td>
-<td align="center" width="25%">
-
-**🎯 Result-Driven**
-<br/>
-Focused on delivering business value
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💖 SUPPORT & APPRECIATION
-
-<div align="center">
-
-### ⭐ If you like my work, consider:
-
-<p>
-  <a href="https://github.com/harshguptakiet">
-    <img src="https://img.shields.io/badge/⭐_Star_My_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
-  </a>
-  <a href="https://github.com/harshguptakiet?tab=followers">
-    <img src="https://img.shields.io/badge/👥_Follow_Me-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
-  </a>
-  <a href="https://linkedin.com/in/harshguptakiet">
-    <img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
-  </a>
-</p>
-
----
-
-### 📊 Profile Statistics Summary
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=✨%20GitHub%20Profile%20Stats" alt="GitHub Stats"/>
-
----
-
-### 🏆 Final Thoughts
-
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-**🌟 Mission:** Building impactful solutions that make a difference  
-**💡 Vision:** Continuous learning and contributing to open source  
-**🎯 Goal:** Creating technology that improves lives
-
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=2F81F7&center=true&vCenter=true&width=560&lines=Thanks+for+stopping+by;Ship+something+real+today;harsh%40github%3A~%24+_"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+profile!+😊;Let's+build+amazing+things+together!+🚀" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <b>📅 Last Updated: August 17, 2026</b> | 
-  <b>✨ Profile Views: <img src="https://komarev.com/ghpvc/?username=harshguptakiet&color=2F81F7" alt="Profile Views"/></b> | 
-  <b>💫 Made with ❤️ by Harsh Gupta</b>
-</p>
-
-<p align="center">
-  <i>⚡ "Turning coffee into code since 2021" ☕</i>
-</p>
+<sub>Every number on this page comes from the GitHub API and my actual repository contents. No filler.</sub>
 
 </div>
