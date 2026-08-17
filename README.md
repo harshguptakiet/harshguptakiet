@@ -8,14 +8,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Gupta&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20·%20AI%20Systems%20·%20Healthcare%20%26%20EdTech&descSize=15&descAlignY=54&animation=twinkling"/>
 
 <a href="https://cura-genie.vercel.app/"><img src="https://img.shields.io/badge/Flagship-CuraGenie-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/harshguptakiet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:guptasecularharsh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=harshguptakiet&color=2F81F7&style=for-the-badge&label=VISITORS"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=2F81F7&center=true&vCenter=true&width=720&lines=480+API+endpoints+in+one+ERP;268+database+models%2C+221%2F221+tests+green;1%2C250+contributions+in+the+last+year;22+forks+on+an+AI+healthcare+platform;31+repos+·+~14.8+MB+of+real+source"/>
+
 
 </div>
 
