@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WITH GRADIENT BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARSH%20GUPTA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARSH%20GUPTA&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&lines=💻+Full+Stack+Developer;🚀+TypeScript+%7C+Python+%7C+React+Expert;🏥+Healthcare+Tech+Innovator;🎯+Building+Scalable+Solutions;🌟+Open+Source+Contributor;✨+Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&lines=💻+Full+Stack+Developer;🚀+TypeScript+Specialist;🏥+Healthcare+Tech+Innovator;🌱+Continuous+Learner" alt="Typing SVG"/>
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -80,7 +80,7 @@ Status: 🟢 Open to Opportunities
 ```
 
 **🎓 Background:**
-- Computer Science Engineering Student
+- Computer Science Engineering Student (Final Year)
 - Active Open Source Contributor
 - Healthcare Tech Specialist
 - Modern Web Technologies Advocate
@@ -93,9 +93,9 @@ Status: 🟢 Open to Opportunities
 
 ### 🎨 Professional Summary
 
-> *Building production-ready applications with modern technologies. Specialized in healthcare tech solutions, full-stack development, and creating seamless user experiences. Passionate about writing clean, maintainable code and solving complex problems with elegant solutions.*
+> *Building production-ready applications with modern technologies. Specialized in healthcare tech solutions, full-stack development, and creating seamless user experiences. Passionate about writing clean code and contributing to the tech community.*
 
-**🌟 GitHub Journey:** Member since November 2024 | **📅 Last Updated:** January 2026
+**🌟 GitHub Journey:** Member since November 2024 | **📅 Last Updated:** August 17, 2026
 
 </div>
 
@@ -111,12 +111,12 @@ Status: 🟢 Open to Opportunities
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshguptakiet&theme=radical&hide_border=true&background=0D1117&stroke=39D353&ring=2F81F7&fire=FFA500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=39D353&sideNums=39D353" alt="Contribution Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshguptakiet&theme=radical&hide_border=true&background=0D1117&stroke=39D353&ring=2F81F7&fire=FFA500&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="GitHub Stats"/>
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ Status: 🟢 Open to Opportunities
 
 <img src="https://ghchart.rshah.org/2F81F7/harshguptakiet" alt="GitHub Contribution Calendar" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshguptakiet&bg_color=0d1117&color=2F81F7&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshguptakiet&bg_color=0d1117&color=2F81F7&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph"/>
 
 ### 💻 Language Distribution & Metrics
 
@@ -134,7 +134,7 @@ Status: 🟢 Open to Opportunities
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguptakiet&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=FFFFFF&langs_count=10&exclude_repo=harshguptakiet" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguptakiet&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 
 </td>
 <td width="50%">
@@ -217,7 +217,7 @@ Status: 🟢 Open to Opportunities
 <td width="50%" valign="top">
 
 #### 🏥 **Cura-Genie** - Healthcare Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=Cura-Genie&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF)](https://github.com/harshguptakiet/Cura-Genie)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=Cura-Genie&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="Cura-Genie Repo"/>
 
 **📋 Description:**  
 Comprehensive healthcare management platform with patient records, appointment scheduling, and medical analytics.
@@ -241,7 +241,7 @@ Comprehensive healthcare management platform with patient records, appointment s
 <td width="50%" valign="top">
 
 #### 🏥 **Doctor Portal** - Medical Management
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=doctor-portal&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF)](https://github.com/harshguptakiet/doctor-portal)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=doctor-portal&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="Doctor Portal Repo"/>
 
 **📋 Description:**  
 Professional doctor management system for healthcare providers with advanced features.
@@ -267,7 +267,7 @@ Professional doctor management system for healthcare providers with advanced fea
 <td width="50%" valign="top">
 
 #### 📄 **Resume Generator** - AI-Powered Tool
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=resume-generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF)](https://github.com/harshguptakiet/resume-generator)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=resume-generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="Resume Generator Repo"/>
 
 **📋 Description:**  
 AI-powered resume builder with smart suggestions and professional templates.
@@ -291,7 +291,7 @@ AI-powered resume builder with smart suggestions and professional templates.
 <td width="50%" valign="top">
 
 #### 🎨 **Fresh Canvas Vibes** - Creative Platform
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=fresh-canvas-vibes&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF)](https://github.com/harshguptakiet/fresh-canvas-vibes)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshguptakiet&repo=fresh-canvas-vibes&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=39D353&text_color=FFFFFF" alt="Fresh Canvas Vibes Repo"/>
 
 **📋 Description:**  
 Modern creative platform for digital artists and designers with collaborative features.
@@ -410,19 +410,14 @@ Modern creative platform for digital artists and designers with collaborative fe
 
 <div align="center">
 
-### ⏱️ WakaTime Development Metrics
+### ⏱️ Development Metrics
 
-<!--START_SECTION:waka-->
-📊 **Weekly Development Breakdown** 
-
-*WakaTime stats will appear here once configured*
-
-To enable automatic updates:
-1. Sign up at [WakaTime.com](https://wakatime.com)
-2. Add `WAKATIME_API_KEY` to repository secrets
-3. Stats will update every 2 hours automatically
-
-<!--END_SECTION:waka-->
+**Recent Focus Areas (Aug 2026):**
+- 🎯 Full Stack Development
+- 📱 React & Next.js Projects
+- 🏥 Healthcare Tech Solutions
+- ☁️ Cloud Deployment & DevOps
+- 📊 Database Optimization
 
 ### 🕐 Most Productive Hours (IST - UTC+5:30)
 
@@ -430,11 +425,9 @@ To enable automatic updates:
 
 ### 📊 Recent Activity Feed
 
-<!--START_SECTION:activity-->
-*Recent activity will appear here automatically*
+*Recent activity is automatically updated from GitHub API*
 
-The activity workflow updates this section every 30 minutes with the latest GitHub activities.
-<!--END_SECTION:activity-->
+The activity workflow updates this section regularly with the latest GitHub activities.
 
 ### 📈 Preferred Working Hours (IST)
 
@@ -576,7 +569,7 @@ Intelligent web apps
 
 **📚 Repositories**
 <br/>
-<img src="https://img.shields.io/badge/Total-17-2F81F7?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/Total-17+-2F81F7?style=for-the-badge" alt="Repos"/>
 <br/>
 Public & Active
 
@@ -603,7 +596,7 @@ Growing Network
 
 **🔄 Following**
 <br/>
-<img src="https://img.shields.io/badge/Count-5-2F81F7?style=for-the-badge" alt="Following"/>
+<img src="https://img.shields.io/badge/Active-Contributors-2F81F7?style=for-the-badge" alt="Following"/>
 <br/>
 Active Connections
 
@@ -770,7 +763,7 @@ Proficient
 </tr>
 </table>
 
-*Self-assessed competencies based on project experience*
+*Self-assessed competencies based on project experience and practical application*
 
 </div>
 
@@ -950,7 +943,7 @@ Focused on delivering business value
 
 ### 📊 Profile Statistics Summary
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=✨%20GitHub%20Impact" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshguptakiet&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=✨%20GitHub%20Profile%20Stats" alt="GitHub Stats"/>
 
 ---
 
@@ -967,11 +960,11 @@ Focused on delivering business value
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+profile!+😊;Let's+build+something+amazing+together!+🚀;Open+to+collaboration+and+opportunities!+✨;Happy+Coding!+💻" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+profile!+😊;Let's+build+amazing+things+together!+🚀" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <b>📅 Last Updated: January 29, 2026</b> | 
+  <b>📅 Last Updated: August 17, 2026</b> | 
   <b>✨ Profile Views: <img src="https://komarev.com/ghpvc/?username=harshguptakiet&color=2F81F7" alt="Profile Views"/></b> | 
   <b>💫 Made with ❤️ by Harsh Gupta</b>
 </p>
