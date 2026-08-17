@@ -5,7 +5,7 @@
      excluded: github-readme-stats (503), github-profile-trophy (402),
      github-contributor-stats (402).
      ═══════════════════════════════════════════════════════════════════════ -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 <div align="center">
 
 
