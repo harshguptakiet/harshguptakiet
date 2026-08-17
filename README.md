@@ -15,36 +15,63 @@
 <a href="mailto:guptasecularharsh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=harshguptakiet&color=2F81F7&style=for-the-badge&label=VISITORS"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=2F81F7&center=true&vCenter=true&width=720&lines=480+API+endpoints+in+one+ERP;268+database+models%2C+221%2F221+tests+green;22+forks+on+an+AI+healthcare+platform;31+repos+·+~14.8+MB+of+real+source+code"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=2F81F7&center=true&vCenter=true&width=720&lines=480+API+endpoints+in+one+ERP;268+database+models%2C+221%2F221+tests+green;1%2C250+contributions+in+the+last+year;22+forks+on+an+AI+healthcare+platform;31+repos+·+~14.8+MB+of+real+source"/>
 
 </div>
 
 ---
 
-## `~$ whoami`
-
-```console
-harsh@github:~$ cat profile.json
-{
-  "name":     "Harsh Gupta",
-  "role":     "Full-Stack Engineer · AI Systems Builder",
-  "based_in": "Lucknow, Uttar Pradesh, India  (UTC+5:30)",
-  "studying": "B.Tech Computer Science · KIET Group of Institutions",
-  "shipping": ["Tekurious ERP", "CuraGenie", "Stress Dost", "ClaimWise"],
-  "domains":  ["Healthcare Tech", "EdTech / ERP", "Voice & IoT", "Applied ML"],
-  "stack":    ["TypeScript", "Python", "NestJS", "Next.js", "FastAPI", "PostgreSQL"],
-  "status":   "open to roles · internships · collaborations"
-}
-
-harsh@github:~$ ls -la ~/work | tail -1
-# 31 public repositories · ~14.8 MB tracked source · building since Nov 2024
-```
+## 👋 About Me
 
 I build **complete systems, not demos.** My repos lean into the unglamorous parts of software
 that actually decide whether a product survives: multi-tenant schema design, auth and RBAC,
 background jobs, real-time transport, OCR pipelines, and model-serving APIs.
 
 Most of my work lives where **healthcare, education, and applied AI** overlap.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Right now**
+
+🔹 Full-Stack Engineer &amp; AI Systems Builder
+🔹 B.Tech Computer Science, KIET Group of Institutions
+🔹 Lucknow, Uttar Pradesh, India · IST (UTC+5:30)
+🔹 Shipping **Tekurious ERP**, **CuraGenie**, **ClaimWise**
+🔹 🟢 Open to roles, internships &amp; collaborations
+
+</td>
+<td width="50%" valign="top">
+
+**🧩 Where I work best**
+
+🏥 Healthcare Tech &nbsp;&nbsp; 🎓 EdTech &amp; ERP
+🗣️ Voice &amp; IoT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤖 Applied ML
+🔐 Auth, RBAC &amp; multi-tenancy
+🗄️ Schema design &amp; data modelling
+⚡ Real-time systems &amp; background jobs
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Core stack**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+**Building with** &nbsp; <a href="https://github.com/Acadza"><img src="https://img.shields.io/badge/@Acadza-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/fossasia"><img src="https://img.shields.io/badge/@fossasia-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/DevOps-Tally"><img src="https://img.shields.io/badge/@DevOps--Tally-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</div>
 
 ---
 
@@ -97,9 +124,11 @@ flowchart LR
 
 <div align="center">
 
-| 📦 Public repos | ⭐ Peak stars | � Peak forks | 💾 Tracked source | 📅 Building since |
-|:---:|:---:|:---:|:---:|:---:|
-| **31** | **6** · Cura-Genie | **22** · Cura-Genie | **~14.8 MB** | **Nov 2024** |
+| 🔥 Contributions<br/><sub>last 12 months</sub> | 📦 Public<br/>repos | ⭐ Peak<br/>stars | 🍴 Peak<br/>forks | 💾 Tracked<br/>source | 📅 Building<br/>since |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **1,250** | **31** | **6**<br/><sub>Cura-Genie</sub> | **22**<br/><sub>Cura-Genie</sub> | **~14.8 MB** | **Nov 2024** |
+
+Active across **29 repositories** · **94%** of my contributions are pull requests · **89 commits** to Tekurious ERP in August 2026 alone
 
 </div>
 
